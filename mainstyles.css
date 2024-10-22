@@ -1,0 +1,45 @@
+body{
+    border: 5px solid black;
+    width:  85%;
+    margin: auto;
+    background-color: aquamarine;
+    
+
+}
+main{
+    background-color: rgb(180, 36, 185);
+    margin: auto
+    border 2px solid red
+    padding 5px
+}
+    h1{
+
+    }
+    .mawelstyle{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: darkseagreen;
+        color: rgb(68, 17, 187);
+    }
+    ul>li{
+        display: inline;
+    }
+    Ul>li>a{
+        text-decoration: none;
+        color: white;
+        background-color: rgb(209, 19, 130);
+        margin-left: 4px;
+        padding: 5px;
+        
+    }
+    ul>li>a:hover{
+        color: black;
+        background-color: red;
+        }
+    selected{
+        color: lightseagreen;
+        background-color: limegreen;
+    }
+    
+
+    
+
